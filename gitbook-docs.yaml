@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: i-BOX Manual
+  structure:
+    - type: space
+      key: space-1
+      title: i-BOX Manual
+      path: i-box-manual-and-faq
+      default: true
+      content:
+        directory: ./i-box-manual-and-faq
